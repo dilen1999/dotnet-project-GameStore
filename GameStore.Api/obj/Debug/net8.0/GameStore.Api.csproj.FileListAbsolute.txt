@@ -23,3 +23,4 @@ D:\INTERN\Expernetic\dotnet project julio casal\GameStore.Api\obj\Debug\net8.0\r
 D:\INTERN\Expernetic\dotnet project julio casal\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
 D:\INTERN\Expernetic\dotnet project julio casal\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
 D:\INTERN\Expernetic\dotnet project julio casal\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
+D:\INTERN\Expernetic\dotnet project julio casal\GameStore.Api\obj\Debug\net8.0\GameStore.Api.sourcelink.json

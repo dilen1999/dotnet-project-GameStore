@@ -1,1 +1,14 @@
-GET http://localhost:5041
+GET http://localhost:5041/games
+
+###
+GET http://localhost:5041/games/1
+
+###
+POST http://localhost:5041/games
+Content-Type: application/json
+{
+    "name": "Dilen",
+    "genre": "Kids and family",
+    "price": "19.99",
+    "releaseDate": "2011-11-18"
+}
