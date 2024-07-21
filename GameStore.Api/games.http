@@ -12,3 +12,16 @@ Content-Type: application/json
     "price": "19.99",
     "releaseDate": "2011-11-18"
 }
+
+###
+PUT http://localhost:5041/games/1
+Content-Type: application/json
+{
+    "name": "Dilen updated ",
+    "genre": "Kids and family",
+    "price": "19.99",
+    "releaseDate": "2011-11-18"
+}
+
+###
+DELETE http://localhost:5041/games/2
